@@ -1,2 +1,6 @@
-# numberSystem
-A simple number conversion project using c
+# Number System Conversion 
+
+* Binary to octal or decimal or hexadecimal
+* Octal to binary or decimal or hexadecimal
+* Decimal to binary or octal or hexadecimal
+* Hexadecimal to binary or decimal or octal
