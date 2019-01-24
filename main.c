@@ -37,7 +37,7 @@ void print(char *data, int arraySize);
 
 int main()
 {
-    printf("\t       -------------------***********-------------------\n");
+        printf("\t       -------------------***********-------------------\n");
 	printf("\n\t--**-- Simple Numbering System Project By Sourav Hossain --**--\n");
 	printf("\n\t       -------------------***********-------------------\n");
 
